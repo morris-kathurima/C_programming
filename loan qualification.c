@@ -1,3 +1,9 @@
+/*
+name:morris kathurima
+reg no:CT100/G/26260/25
+Description:loan qualifications
+*/
+
 #include <stdio.h>
 int main()
 {
@@ -19,4 +25,5 @@ int main()
 	}
 	return 0;
 	}
+
 
